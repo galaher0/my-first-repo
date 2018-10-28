@@ -1,28 +1,25 @@
-# This is a large heading
+# Ilia G
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in StP, Russia.
 
-- This is
-- an unordered
-- list
+### Sports
 
-1. This is
-2. an ordered
-3. list
+I do several sports
 
-Here is `some code` in the middle of a sentence.
+- crossfit
+- snowboarding
+- cycling
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My fav food is:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Pelmeni
+2. Belyash
+3. Pizza
+
+### Contact
+
+My [github page](https://github.com/mighty8catson).
