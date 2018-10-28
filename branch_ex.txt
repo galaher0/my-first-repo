@@ -1,1 +1,2 @@
 smth to commit
+resolving conflict
