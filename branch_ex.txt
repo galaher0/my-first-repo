@@ -1,2 +1,2 @@
 smth to commit
-creating conflict
+resolving conflict
